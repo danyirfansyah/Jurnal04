@@ -1,3 +1,4 @@
+
 public class Data {
     String mataKuliah;
     String tugas;
